@@ -13,7 +13,7 @@ public class GoBabbyApp {
 			statement.close ( ) ;
 		    con.close ( ) ;	
 		} catch (SQLException e) {}
-	      System.out.println("Thank you for using GoBabbyApp");
+	      System.out.println("Thank you for using Midwifery Services");
 	      System.exit(0);
 	}
 	
