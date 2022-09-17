@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.HashMap;
 import java.util.Random;
 
-public class GoBabbyApp {
+public class Midwifery_Services {
 	
 	static HashMap<String, HashMap<String,String>> appoints;
 	static String date = null;
