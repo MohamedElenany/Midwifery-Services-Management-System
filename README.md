@@ -1,6 +1,6 @@
 # Midwifery Services Application
 ## About:
-This is an mock-up application with an associated DB2 database that enables practitioners access to multiple midewifery services. The practitioner is able to login using his/her practitioner id, then he is able to use many services like checking appointments on a certain date, reviewing patient information, write new notes to a session, request a test for a patient, write prescriptions, and review old information. The DB2 database is connected to the application using the java.sql library.
+The main objective of this project is to develop a comprehensive mock-up database (DB2) and application for managing Midwifery services in Quebec, offering affordable and personalized healthcare for expecting parents. The system facilitates the registration of parents for the program, recording personal information and details of online information sessions. It enables institutions to assign couples to specific midwives, tracks appointments and associated notes throughout the pregnancy and postpartum period. Medical test samples and lab referrals are managed, along with diverse due date estimates, blood types, baby information, and backup midwife assignments. The system also handles birth location decisions and maintains contact information for healthcare institutions. This project aims to streamline Midwifery service management, ensuring efficient healthcare delivery while simplifying administrative tasks for midwives and institutions.
 
 # Files Uploaded: 
 - **Relational Model:**
