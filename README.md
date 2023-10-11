@@ -4,13 +4,13 @@ This is an mock-up application with an associated DB2 database that enables prac
 
 # Files Uploaded: 
 - **Relational Model:**
-  - *ER.pdf*: Contains an ER diagram illustrating the database structure.
-  - *RelationalModel.pdf*: Includes all the relations of the database.
-  - *SQL Files*: Consists of three SQL files for creating the model tables, filling them with dummy data, and deleting them.
-  - *SampleQueries.pdf*: A PDF document with sample queries for the created tables.
+  - *ER.pdf* : Contains an ER diagram illustrating the database structure.
+  - *RelationalModel.pdf* : Includes all the relations of the database.
+  - *SQL Files* : Consists of three SQL files for creating the model tables, filling them with dummy data, and deleting them.
+  - *SampleQueries.pdf* : A PDF document with sample queries for the created tables.
 
 - **Application:**
-  - *Midwifery_Services.java*: Contains the Java application files.
-  - *ApplicationInteraction.pdf*: Provides a detailed walkthrough of the application's functionality.
+  - *Midwifery_Services.java* : Contains the Java application files.
+  - *ApplicationInteraction.pdf* : Provides a detailed walkthrough of the application's functionality.
 
 
