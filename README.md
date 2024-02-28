@@ -1,9 +1,37 @@
-# Midwifery Services Application
-## About:
-The main objective of this project is to develop a comprehensive mock-up database (DB2) and application for managing Midwifery services in Quebec, offering affordable and personalized healthcare for expecting parents. The system facilitates the registration of parents for the program, recording personal information and details of online information sessions. It enables institutions to assign couples to specific midwives, tracks appointments and associated notes throughout the pregnancy and postpartum period. Medical test samples and lab referrals are managed, along with diverse due date estimates, blood types, baby information, and backup midwife assignments. The system also handles birth location decisions and maintains contact information for healthcare institutions. This project aims to streamline Midwifery service management, ensuring efficient healthcare delivery while simplifying administrative tasks for midwives and institutions.
+# Midwifery Services Management System
 
-## Business Value: 
-The business value of the described project is multifaceted. Firstly, it streamlines and enhances the management of Midwifery services, optimizing the allocation of resources, and ensuring efficient healthcare delivery. This, in turn, can lead to cost savings for healthcare institutions. Secondly, it promotes affordable and personalized healthcare, which is a significant selling point for the expecting parents, enhancing their experience and potentially increasing participation in the program. Additionally, the system's ability to manage medical test samples, lab referrals, and test results enhances healthcare quality and monitoring. For healthcare institutions and midwives, it simplifies administrative tasks, reducing the administrative burden. Furthermore, the database can provide valuable data for research and analysis in the field of midwifery and maternal healthcare. Overall, this project not only improves healthcare service delivery but also presents potential cost savings and research opportunities, making it a valuable asset for healthcare providers and organizations.
+## Main Objective
+
+The Midwifery Services Management System is designed to develop a comprehensive database (DB2) and application for efficiently managing Midwifery services in Quebec. The primary objective is to provide affordable and personalized healthcare for expecting parents by streamlining administrative tasks and enhancing healthcare service delivery.
+
+## Creating the App
+
+### Relational Schema
+
+The relational schema for the Midwifery Services Management System encompasses various entities such as parents, midwives, institutions, appointments, medical tests, and more. The relationships between these entities are carefully modeled, taking into account the cardinality of relationships to represent the flow of information throughout the pregnancy and postpartum period.
+
+### SQL Table Creation and Data Insertion
+
+The SQL tables are created based on the relational schema, ensuring a structured and efficient storage system. Key attributes are underlined, and foreign keys are appropriately indicated to establish relationships between tables. Data insertion follows, populating the database with essential information such as parent details, appointment records, medical test results, and more.
+
+### Java App Creation
+
+The system's functionality is realized through a Java application, providing a user-friendly interface for managing Midwifery services. The app allows for seamless registration of parents, assignment of midwives, tracking of appointments and notes, and management of medical tests. It ensures a smooth user experience while interacting with the comprehensive healthcare management system.
+
+## Business Value
+
+The Midwifery Services Management System delivers significant business value:
+
+1. **Streamlined Service Management:** Optimizes resource allocation, ensuring efficient healthcare delivery and potential cost savings for healthcare institutions.
+
+2. **Quality Healthcare Monitoring:** Manages medical test samples, lab referrals, and test results, contributing to enhanced healthcare quality and monitoring.
+
+3. **Simplified Administrative Tasks:** Reduces the administrative burden for healthcare institutions and midwives, improving overall operational efficiency.
+
+
+## Applicability
+
+The Midwifery Services Management System is applicable to healthcare providers and organizations aiming to improve Midwifery service delivery, enhance patient experiences, and streamline administrative processes. The system's adaptability and research potential make it a valuable asset for those seeking efficient, cost-effective, and data-driven solutions in maternal healthcare.
 
 ## Files Uploaded: 
 - **Relational Model:**
